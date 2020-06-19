@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Harian",
+    "email": "haian.nt@tinasoft.vn"
+  },
+  "bundleDependencies": [],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "small flagging utility",
+  "devDependencies": {},
+  "keywords": [
+    "flag"
+  ],
+  "main": "./src/startup.js",
+  "name": "flag",
+  "version": "1.0.0"
+}

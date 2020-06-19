@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\server\\Desktop\\CODE\\SmartFarm\\smartfarm\\storage\\log\\.3cb01b38f15a436e261ac20ffddbf1ee0d81e579-audit.json",
+    "files": [
+        {
+            "date": 1584327326440,
+            "name": "C:\\Users\\server\\Desktop\\CODE\\SmartFarm\\smartfarm\\storage\\log\\server-2020-03-16.log",
+            "hash": "208659bbeea62f88794dc6d2a94f67df"
+        },
+        {
+            "date": 1584419890663,
+            "name": "C:\\Users\\server\\Desktop\\CODE\\SmartFarm\\smartfarm\\storage\\log\\server-2020-03-17.log",
+            "hash": "bf2abf0ad0b7a0415bf9ace32ee83447"
+        },
+        {
+            "date": 1584693917795,
+            "name": "C:\\Users\\server\\Desktop\\CODE\\SmartFarm\\smartfarm\\storage\\log\\server-2020-03-20.log",
+            "hash": "8b4b39d4efa9ffd942432e663699c69f"
+        },
+        {
+            "date": 1584783824533,
+            "name": "C:\\Users\\server\\Desktop\\CODE\\SmartFarm\\smartfarm\\storage\\log\\server-2020-03-21.log",
+            "hash": "30e16f6d39f16650606e89219c37d1fa"
+        },
+        {
+            "date": 1585533734086,
+            "name": "C:\\Users\\server\\Desktop\\CODE\\SmartFarm\\smartfarm\\storage\\log\\server-2020-03-30.log",
+            "hash": "c5d6411959b5d6ef23795a6728a15534"
+        }
+    ]
+}

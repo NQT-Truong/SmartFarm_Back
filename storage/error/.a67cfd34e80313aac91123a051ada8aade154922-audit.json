@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\server\\Desktop\\CODE\\FARM_GITLAP\\farm\\storage\\error\\.a67cfd34e80313aac91123a051ada8aade154922-audit.json",
+    "files": [
+        {
+            "date": 1584154860160,
+            "name": "C:\\Users\\server\\Desktop\\CODE\\FARM_GITLAP\\farm\\storage\\error\\server-2020-03-14.log",
+            "hash": "3a9a2b89fa9328169cdc0aa731c087cd"
+        }
+    ]
+}

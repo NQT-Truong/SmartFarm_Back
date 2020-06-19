@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\server\\Desktop\\CODE\\FARM\\Farm-master\\back\\storage\\log\\.84e3f4366ac97677642dac50a63da08637f47492-audit.json",
+    "files": [
+        {
+            "date": 1584083880569,
+            "name": "C:\\Users\\server\\Desktop\\CODE\\FARM\\Farm-master\\back\\storage\\log\\server-2020-03-13.log",
+            "hash": "47d89701153f33f53e2c1e2008de1a47"
+        },
+        {
+            "date": 1584153093827,
+            "name": "C:\\Users\\server\\Desktop\\CODE\\FARM\\Farm-master\\back\\storage\\log\\server-2020-03-14.log",
+            "hash": "28c9d3f56e6da419f8794025739e4782"
+        }
+    ]
+}

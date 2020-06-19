@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/SmartFarm/smartfarm/storage/error/.63c3d66013b6f27e2f9ec1774793bd1930d2a325-audit.json",
+    "files": [
+        {
+            "date": 1588586400405,
+            "name": "/home/SmartFarm/smartfarm/storage/error/server-2020-05-04.log",
+            "hash": "153310aa482f8fce213e1d235af3e4ec"
+        }
+    ]
+}

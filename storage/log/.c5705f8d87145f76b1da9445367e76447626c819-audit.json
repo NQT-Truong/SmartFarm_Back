@@ -1,0 +1,79 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/SmartFarm/smartfarm/storage/log/.c5705f8d87145f76b1da9445367e76447626c819-audit.json",
+    "files": [
+        {
+            "date": 1587808800090,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-04-25.log",
+            "hash": "9b9a2825a13ad285a7add04132f1a59c"
+        },
+        {
+            "date": 1587895200051,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-04-26.log",
+            "hash": "ae318902a07c280820046f3300de69cd"
+        },
+        {
+            "date": 1587981600055,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-04-27.log",
+            "hash": "1bc81fd4b3ce6b96b5ee80f700f87f27"
+        },
+        {
+            "date": 1588068000067,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-04-28.log",
+            "hash": "667b7eec34b2c97ccf786cd36012a078"
+        },
+        {
+            "date": 1588154400056,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-04-29.log",
+            "hash": "1d2443b6cf9d3c141197deaf5ced73d4"
+        },
+        {
+            "date": 1588240800059,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-04-30.log",
+            "hash": "367d7e4fec53b9cc5647a2b4c0bc6e49"
+        },
+        {
+            "date": 1588327200059,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-05-01.log",
+            "hash": "ae68df604ade89838993dcb6071dcb3c"
+        },
+        {
+            "date": 1588413600054,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-05-02.log",
+            "hash": "11b5a7a504b7192cefffa39e0aceeb86"
+        },
+        {
+            "date": 1588500000079,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-05-03.log",
+            "hash": "2321490f490b15186fb6c418c425d73e"
+        },
+        {
+            "date": 1588586400052,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-05-04.log",
+            "hash": "678a238d96ad127394091c0098b35dc6"
+        },
+        {
+            "date": 1588672800088,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-05-05.log",
+            "hash": "40937a41317b3b079e2bdaec823f29fc"
+        },
+        {
+            "date": 1588759200089,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-05-06.log",
+            "hash": "349dd76d701b0c64c6cdc86d4d125734"
+        },
+        {
+            "date": 1588845600052,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-05-07.log",
+            "hash": "e3043292c796692f454fe63e61f0b606"
+        },
+        {
+            "date": 1588932000106,
+            "name": "/home/SmartFarm/smartfarm/storage/log/server-2020-05-08.log",
+            "hash": "4351889b07eaecfb4ab13a9edf406e9a"
+        }
+    ]
+}

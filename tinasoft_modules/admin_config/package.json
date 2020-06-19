@@ -1,0 +1,10 @@
+{
+  "author": "hung",
+  "dependencies": {},
+  "description": "ok & ok",
+  "keywords": [],
+  "main": "./config.js",
+  "name": "admin-config",
+  "version": "1.0.1",
+  "devDependencies": {}
+}
